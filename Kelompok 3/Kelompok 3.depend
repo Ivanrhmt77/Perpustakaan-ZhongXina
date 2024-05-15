@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1702603741 source:c:\kuliah\semester 1\logika dan algoritma\project logika dan algoritma semester 1\kelompok 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
